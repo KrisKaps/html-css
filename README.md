@@ -6,33 +6,48 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 1. Módulo 1:
     
 Ex 001: "Primeiro Site"
+
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex001
+
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex001/index.html
 
 Ex 002: "Simbolos e Emojis"
+
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex002
+
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex002/index.html
 
 Ex 003: "Carregando Foto"
+
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex003
+
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex003/index.html
 
 Ex 004: "Favicon"
+
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex004
+
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex004/index.html
 
 Ex 005: "-----"
 
 Ex 006: "h1 - h6"
+
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex006
+
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex006/index.html
 
 Ex 007: "HTML4 vs HTML5"
+
 Site (HTML4): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html4.html
+
 Código (HTML4): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html4.html
 
+
 Site (HTML5): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html5.html
+
 Código (HTML5): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html5.html
+
 
 Ex 008: "Formatação de Texto"
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex008
