@@ -117,23 +117,23 @@ HTML 5
 ## Módulo 3:
 
 #### Ex 022: "Fundo - Posicionamento"
-+ Site 1: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo01.html
-+ Site 2: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo02.html
-+ Site 3: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo03.html
-+ Site 4: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo04.html
-+ Site 5: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo05.html
-+ Site 6: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo06.html
-+ Site 7: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo07.html
-+ Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo03/ex022
++ [Site 1](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo01.html)
++ [Site 2](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo02.html)
++ [Site 3](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo03.html)
++ [Site 4](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo04.html)
++ [Site 5](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo05.html)
++ [Site 6](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo06.html)
++ [Site 7](https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo07.html)
++ [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo03/ex022)
 
 #### Ex 023: "Tabelas"
-+ Site 1: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela01.html
-+ Site 2: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela02.html
-+ Site 3: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela03.html
-+ Site 4: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela04.html
-+ Site 5: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela05.html
-+ Site 6: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela06.html
-+ Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo03/ex023
++ [Site 1](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela01.html)
++ [Site 2](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela02.html)
++ [Site 3](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela03.html)
++ [Site 4](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela04.html)
++ [Site 5](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela05.html)
++ [Site 6](https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela06.html)
++ [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo03/ex023)
 
 ## Módulo 4:
 
