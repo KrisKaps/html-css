@@ -14,60 +14,60 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex002
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex002/index.html
 
-### Ex 003: "Carregando Foto"
+#### Ex 003: "Carregando Foto"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex003
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex003/index.html
 
-### Ex 004: "Favicon"
+#### Ex 004: "Favicon"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex004
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex004/index.html
 
-### Ex 005: "-----"
+#### Ex 005: "-----"
 
-### Ex 006: "h1 - h6"
+#### Ex 006: "h1 - h6"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex006
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex006/index.html
 
-### Ex 007: "HTML4 vs HTML5"
+#### Ex 007: "HTML4 vs HTML5"
 + Site (HTML4): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html4.html
 + Código (HTML4): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html4.html
 
 + Site (HTML5): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html5.html
 + Código (HTML5): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html5.html
 
-### Ex 008: "Formatação de Texto"
+#### Ex 008: "Formatação de Texto"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex008
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex008/index.html
 
-### Ex 008b: "Outras Formatações"
+#### Ex 008b: "Outras Formatações"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex008b
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex008b/index.html
 
-### Ex 009: "Listas"
+#### Ex 009: "Listas"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex009
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex009/index.html
 
-### Ex 010: "Links"
+#### Ex 010: "Links"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex010
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex010/index.html
 
-### Ex 011: "Imagens e Áudios"
+#### Ex 011: "Imagens e Áudios"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex011
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex011/index.html
 
-### Ex 012: "Vídeos"
+#### Ex 012: "Vídeos"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex012
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex012/index.html
 
-### Ex 013: "Estilos 'Inline'"
+#### Ex 013: "Estilos 'Inline'"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex013
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex013/index.html
 
-### Ex 014: "Estilos Internos"
+#### Ex 014: "Estilos Internos"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex014
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex014/index.html
 
-### Ex 015: "Estilos Externos"
+#### Ex 015: "Estilos Externos"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex015
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex015/index.html
 
