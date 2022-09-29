@@ -82,37 +82,37 @@ HTML 5
 + [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex016)
 
 #### Ex 017: "Fontes 1 (Import)"
-+ Site 1: https://kriskaps.github.io/html-css/exercicios/modulo02/ex017/fonte01.html
-+ Site 2: https://kriskaps.github.io/html-css/exercicios/modulo02/ex017/fonte02.html
-+ Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex017
++ [Site 1](https://kriskaps.github.io/html-css/exercicios/modulo02/ex017/fonte01.html)
++ [Site 2](https://kriskaps.github.io/html-css/exercicios/modulo02/ex017/fonte02.html)
++ [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex017)
 
 #### Ex 018: "Fontes 2 (Download)"
-+ Site 1: https://kriskaps.github.io/html-css/exercicios/modulo02/ex018/fonte01.html
-+ Site 2: https://kriskaps.github.io/html-css/exercicios/modulo02/ex018/fonte02.html
-+ Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex018
++ [Site 1](https://kriskaps.github.io/html-css/exercicios/modulo02/ex018/fonte01.html)
++ [Site 2](https://kriskaps.github.io/html-css/exercicios/modulo02/ex018/fonte02.html)
++ [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex018)
 
 #### Ex 019: "Class e ID"
-+ Site: https://kriskaps.github.io/html-css/exercicios/modulo02/ex019/seletor01.html
-+ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex019/seletor01.html
++ [Site](https://kriskaps.github.io/html-css/exercicios/modulo02/ex019/seletor01.html)
++ [Código](https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex019/seletor01.html)
 
 #### Ex 020: 
 "Hover"
-+ Site: https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/hover.html
-+ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/hover.html
++ [Site](https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/hover.html)
++ [Código](https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/hover.html)
 
 "Links"
-+ Site: https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/links.html
-+ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/links.html
++ [Site](https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/links.html)
++ [Código](https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/links.html)
 
 "Pseudo Classe"
-+ Site: https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/pseudoclasse.html
-+ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/pseudoclasse.html
++ [Site](https://kriskaps.github.io/html-css/exercicios/modulo02/ex020/pseudoclasse.html)
++ [Código](https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo02/ex020/pseudoclasse.html)
 
 #### Ex 021: "Modelo de Caixa"
-+ Site 1: https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa01.html
-+ Site 2: https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa02.html
-+ Site 3: https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa03.html
-+ Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex021
++ [Site 1](https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa01.html)
++ [Site 2](https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa02.html)
++ [Site 3](https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa03.html)
++ [Código](https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex021)
 
 ## Módulo 3:
 
