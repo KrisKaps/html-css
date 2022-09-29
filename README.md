@@ -3,7 +3,7 @@ Curso de HTML5 e CSS3
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-### Módulo 1:
+## Módulo 1:
     
 #### Ex 001: "Primeiro Site"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex001
