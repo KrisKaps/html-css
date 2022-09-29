@@ -29,11 +29,12 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 + Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex006/index.html
 
 #### Ex 007: "HTML4 vs HTML5"
-+ Site (HTML4): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html4.html
-+ Código (HTML4): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html4.html
-
-+ Site (HTML5): https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html5.html
-+ Código (HTML5): https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html5.html
+HTML 4
++ Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html4.html
++ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html4.html
+HTML 5
++ Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex007/html5.html
++ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex007/html5.html
 
 #### Ex 008: "Formatação de Texto"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex008
