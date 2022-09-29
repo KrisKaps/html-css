@@ -3,7 +3,7 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-Módulo 1:
+1. Módulo 1:
     
 Ex 001: "Primeiro Site"
     Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex001
@@ -70,7 +70,7 @@ Ex 015: "Estilos Externos"
     Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex015
     Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex015/index.html
 
-Módulo 2:
+2. Módulo 2:
     
     Ex 016: "Cores"
         Site 1: https://kriskaps.github.io/html-css/exercicios/modulo02/ex016/cor01.html
@@ -111,7 +111,7 @@ Módulo 2:
         Site 3: https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa03.html
         Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex021
 
-Módulo 3:
+3. Módulo 3:
     
     Ex 022: "Fundo - Posicionamento"
         Site 1: https://kriskaps.github.io/html-css/exercicios/modulo03/ex022/fundo01.html
@@ -132,7 +132,7 @@ Módulo 3:
         Site 6: https://kriskaps.github.io/html-css/exercicios/modulo03/ex023/tabela06.html
         Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo03/ex023
 
-Módulo 4:
+4. Módulo 4:
     
     Ex 024: "Iframe"
         Site 1: https://kriskaps.github.io/html-css/exercicios/modulo04/ex024/iframe01.html
