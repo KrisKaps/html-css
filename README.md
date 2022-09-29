@@ -162,13 +162,13 @@ HTML 5
 #### Ex 026: "Media Query"
 + Site 1: https://kriskaps.github.io/html-css/exercicios/modulo04/ex026/mq01
 + Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo04/ex026/mq01/index.html
--
+
 + Site 2: https://kriskaps.github.io/html-css/exercicios/modulo04/ex026/mq02
 + Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo04/ex026/mq02/index.html
--
+
 + Site 3: https://kriskaps.github.io/html-css/exercicios/modulo04/ex026/mq03
 + Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo04/ex026/mq03/index.html
--
+
 + Site 4: https://kriskaps.github.io/html-css/exercicios/modulo04/ex026/mq04
 + Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo04/ex026/mq04/index.html
 
