@@ -112,8 +112,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 + Site 3: https://kriskaps.github.io/html-css/exercicios/modulo02/ex021/caixa03.html
 + Código: https://github.com/KrisKaps/html-css/tree/main/exercicios/modulo02/ex021
 
-
-
 ## Módulo 3:
 
 #### Ex 022: "Fundo - Posicionamento"
