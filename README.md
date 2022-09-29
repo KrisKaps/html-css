@@ -11,8 +11,8 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 #### Ex 002: "Simbolos e Emojis"
 
-+ Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex002
-+ Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex002/index.html
++ [Site](https://kriskaps.github.io/html-css/exercicios/modulo01/ex002)
++ [Código](https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex002/index.html)
 
 #### Ex 003: "Carregando Foto"
 + Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex003
