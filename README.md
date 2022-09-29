@@ -6,9 +6,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 ### Módulo 1:
     
 #### Ex 001: "Primeiro Site"
-
 Site: https://kriskaps.github.io/html-css/exercicios/modulo01/ex001
-
 Código: https://github.com/KrisKaps/html-css/blob/main/exercicios/modulo01/ex001/index.html
 
 #### Ex 002: "Simbolos e Emojis"
